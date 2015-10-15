@@ -1,0 +1,5 @@
+C:\Users\etudiant-bts\documents\visual studio 2010\Projects\PremiereAppliMVC\PremiereAppliMVC\bin\PremiereAppliMVC.dll
+C:\Users\etudiant-bts\documents\visual studio 2010\Projects\PremiereAppliMVC\PremiereAppliMVC\bin\PremiereAppliMVC.pdb
+C:\Users\etudiant-bts\documents\visual studio 2010\Projects\PremiereAppliMVC\PremiereAppliMVC\obj\Debug\PremiereAppliMVC.csprojResolveAssemblyReference.cache
+C:\Users\etudiant-bts\documents\visual studio 2010\Projects\PremiereAppliMVC\PremiereAppliMVC\obj\Debug\PremiereAppliMVC.dll
+C:\Users\etudiant-bts\documents\visual studio 2010\Projects\PremiereAppliMVC\PremiereAppliMVC\obj\Debug\PremiereAppliMVC.pdb
